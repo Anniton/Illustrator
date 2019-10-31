@@ -8,7 +8,9 @@ One week of "piscine" at 42 to learn how to use Illustrator.
 	* Selection and transformation
 	* Vector paths and feather tool
 	* Clipping
-```	
+```
+
+Few examples...
 ```
 Big City Life
 ```
